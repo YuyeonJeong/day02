@@ -1,4 +1,4 @@
-package quizz.quizquiz;
+package quizz;
 
 import java.util.Scanner;
 
