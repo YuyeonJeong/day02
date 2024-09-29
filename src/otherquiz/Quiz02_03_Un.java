@@ -2,7 +2,7 @@ package otherquiz;
 
 import java.util.Scanner;
 
-public class Quiz02_03 {
+public class Quiz02_03_Un {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("========================================");
